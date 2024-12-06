@@ -11,7 +11,6 @@ extra/private/google-modules/soc/gs/drivers/soc/google/gnssif_spi/gnssif.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/pa_kill/pa_kill.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/dbgcore-dump.ko
 extra/private/google-modules/soc/gs/drivers/regulator/rt6160-regulator.ko
-extra/private/google-modules/soc/gs/drivers/usb/gadget/function/usb_f_rndis.ko
 extra/private/google-modules/soc/gs/drivers/input/misc/vl53l1/stmvl53l1.ko
 extra/private/google-modules/soc/gs/drivers/input/fingerprint/goodixfp.ko
 extra/private/google-modules/aoc/mailbox-wc.ko
