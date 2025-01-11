@@ -198,8 +198,8 @@ extra/private/google-modules/trusty/drivers/trusty/trusty-virtio.ko
 extra/private/google-modules/trusty/drivers/trusty/trusty-ipc.ko
 extra/private/google-modules/video/gchips/bigwave.ko
 extra/private/devices/google/shusky/display/panel-google-bigsurf.ko
+extra/private/devices/google/shusky/display/panel-google-hk3.ko
 extra/private/devices/google/shusky/display/panel-google-shoreline.ko
-extra/private/devices/google/shusky/display/panel-gs-hk3.ko
 extra/private/google-modules/gps/broadcom/bcm47765/bcm47765.ko
 extra/private/google-modules/nfc/st21nfc.ko
 extra/private/google-modules/nfc/ese/st54spi.ko
